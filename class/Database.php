@@ -1,10 +1,10 @@
 <?php
 class Database {
     public function getConnect() {
-        $host = "localhost";
-        $db = "db_min_watch";
-        $username = "root";
-        $password = "";
+        $host = "sql205.infinityfree.com";
+        $db = "if0_38102155_db_min_watch";
+        $username = "if0_38102155";
+        $password = "56viiIaFj9";
 
         $dsn = "mysql:host=$host;dbname=$db;charset=UTF8";
 
